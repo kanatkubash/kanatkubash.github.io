@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 480 480" enable-background="new 0 0 480 480" xml:space="preserve">
+<g id="clip">
+	<defs>
+		<circle id="circle_duplicate_clip" cx="240" cy="190" r="150"/>
+	</defs>
+	<clipPath id="circle_duplicate_clip_1_">
+		<use xlink:href="#circle_duplicate_clip"  overflow="visible"/>
+	</clipPath>
+	<circle id="circle" clip-path="url(#circle_duplicate_clip_1_)" fill="#00A99D" cx="240" cy="240" r="150"/>
+</g>
+</svg>

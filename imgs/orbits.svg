@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 600" enable-background="new 0 0 800 600" xml:space="preserve">
+<g id="shell">
+	<g id="shell_ring3">
+		<circle fill="none" stroke="#FFFFFF" stroke-miterlimit="10" stroke-dasharray="0.9991,4.9957" cx="400" cy="300" r="270"/>
+	</g>
+	<circle id="shell_ring1" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" cx="400" cy="300" r="230"/>
+	<g id="shell_ring2">
+		
+			<circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="107.2668,221.1346,264.0413,368.0075,325.1008,379.5593" cx="400" cy="300" r="265"/>
+	</g>
+	<defs>
+			<rect id="SVGID_1_" x="520" y="60" width="480" height="480"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+	<g id="shell_outer" mask="url(#shell_outer_1_)">
+		<rect x="520" y="60" fill="none" width="480" height="480"/>
+		<g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="104.5" y="4.5" width="591" height="591">
+					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="104.5" y="4.5" width="591" height="591" id="shell_path_1_">
+				<g id="shell_outer_mask" filter="url(#Adobe_OpacityMaskFilter_1_)">
+					<circle id="shell_outer_mask_circle_0" cx="400" cy="5" r="15.4"/>
+				</g>
+			</mask>
+			
+				<circle id="shell_path" mask="url(#shell_path_1_)" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" cx="400" cy="300" r="295"/>
+			<g id="shell_outer_point_0">
+				<circle fill="none" stroke="#FFFFFF" stroke-miterlimit="10" cx="400" cy="5" r="11"/>
+				<ellipse fill="#FFFFFF" cx="400" cy="5" rx="6" ry="5.6"/>
+			</g>
+		</g>
+	</g>
+	<rect x="405" y="232" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="92" height="92"/>
+</g>
+<rect x="-103.9" y="-28.4" fill="none" width="1001.9" height="721.5"/>
+</svg>

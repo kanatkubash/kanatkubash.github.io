@@ -5,7 +5,7 @@
     <script src="./app/api/jquery.js"></script>
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>@yield('title', 'KemengerLAB')</title>
+    <title>KemengerLAB landing showcase</title>
     <link
       rel="shortcut icon"
       sizes="16x16 24x24 32x32 48x48 64x64"
@@ -323,13 +323,13 @@
           </div>
         </div>
         <div id="ourbrief" class="keme-page section" data-index="2">
-          <div class="page-wrapper">@yield('briefcase')</div>
+          <div class="page-wrapper"></div>
         </div>
         <div id="ourprojects" class="keme-page section" data-index="3">
-          <div class="page-wrapper">@yield('projects')</div>
+          <div class="page-wrapper"></div>
         </div>
         <div id="ourcontacts" class="keme-page section" data-index="4">
-          <div class="page-wrapper">@yield('contacts')</div>
+          <div class="page-wrapper"></div>
         </div>
       </div>
 
@@ -377,14 +377,12 @@
       data-main="{{ asset('app/service/default.js') }}"
       src="{{ asset('vendor/requirejs/require.js') }}"
     ></script> -->
-    <script src="three.js"></script>
+    <script src="./vendor/lib/three.js"></script>
     <!-- <script src="./app/api/default.js"></script> -->
     <script
       data-main="./app/core/default.js"
       type="text/javascript"
       src="./vendor/requirejs/require.js"
-    ></script>
-    <!-- <script type="text/javascript" src="./app/api/default.js"></script> -->
-    <!-- src="{{ asset('vendor/requirejs/require.js') }}" -->
+    ></script>    
   </body>
 </html>
